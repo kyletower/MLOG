@@ -8,6 +8,9 @@ MLOG is my monorepo for tracking articles, books, podcasts, movies, and shows al
 mlog/
 ├── articles/
 │   ├── Article-Title/
+│   │   ├── summary.md
+│   │   ├── notes.md
+│   │   └── thoughts.md
 ├── books/
 │   ├── Book-Title/
 │   │   ├── summary.md
