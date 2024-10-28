@@ -4,3 +4,5 @@
 
 - Add README.md
 - Add CHANGELOG.md
+- Add directories
+- Add README's in directories
